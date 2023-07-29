@@ -1,5 +1,6 @@
 # Browggers
 Browggers (browser + POGGERS) is a stupid browser extension which substitutes every image in every page with an image of the POGGERS Twitch emote.
+![demo](demo.png)
 
 
 ## Installation
